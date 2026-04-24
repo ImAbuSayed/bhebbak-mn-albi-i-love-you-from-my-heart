@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي ناداك
+> نور عيوني سارح معاك
+> روحي بتدوب في هواك
+> أنا لك وعمري فداك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
