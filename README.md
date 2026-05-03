@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Bhebbak Mn Albi – I Love You from My Heart |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/bhebbak-mn-albi-i-love-you-from-my-heart/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
