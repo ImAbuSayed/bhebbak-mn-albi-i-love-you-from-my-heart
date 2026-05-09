@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bhebbak Mn Albi – I Love You from My Heart
+
+This log tracks the cryptographic history and versioning for the song **Bhebbak Mn Albi – I Love You from My Heart** (bhebbak-mn-albi-i-love-you-from-my-heart).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:30:35.348954 | `v1` | `65a16ae4ca9fcc883bb6beb338c657c0cf99d28c6e9a0d884707f83dddc651b9` | `8c1c258464d190a99ce0524830a5dd1b8cbf3701fbae0a45296ee20448944073` | `2026-05-09_bhebbak-mn-albi-i-love-you-from-my-heart-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
